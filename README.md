@@ -12,4 +12,4 @@
 
 -> start xampp server and create a crud table
 
--> run index.html
+-> run crud.php
