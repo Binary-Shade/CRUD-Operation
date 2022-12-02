@@ -1,4 +1,4 @@
-#CRUD OPERATION PAGE
+# CRUD OPERATION PAGE
 
 -> This is a CRUD operation page
 
@@ -8,7 +8,7 @@
 
 -------------------------------------- 
 
-#HOW TO EXECUTE
+# HOW TO USE
 
 -> start xampp server and create a crud table
 
